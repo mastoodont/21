@@ -1,5 +1,5 @@
 """
-A script to show the user the current time.
+A script to show the user the current time2001.
 
 Author: Matthew Pitkin
 Email: m.pitkin@lancaster.ac.uk
